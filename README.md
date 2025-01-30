@@ -19,4 +19,19 @@ interval notation and set-builder notation. See q2.1.20 for how I was allowing s
 (may be buggy though, let's talk about it). Probably lock_viewport:=true. Feedback should include mention that the 
 range is related to the output value. Don’t ask about domain in this question, but leave it as a possibility in the 
 future when deciding on variable names in your code. 
+<br/>
+<br/>
+2.5 Decomposing functions
+Express the function h(x) in the form gof by decomposing it into a composition of non-identity functions. h(x) = (x^p+A)^q 
+A:=random_exclude(-10,10,0), p,q:= random(2,10) q!=p.
+<br/>
+<br/>
+2.5 Decomposing functions
+Express the function H(x) in the form fogoh by decomposing it into a composition of non-identity functions. 
+H(x) = (A+|x|)^(1/r) a:=random_exclude(-10,10,0), r:= random(2,10), show radical symbol.
+<br/>
+<br/>
+2.5 Decomposing functions 
+Express the function h(x) in the form coboa by decomposing it into a composition of non-identity functions. 
+h(x) = sin(A-x^p) A:=random_exclude(-10,10,0), p:= random(2,10)
 
