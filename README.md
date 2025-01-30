@@ -3,7 +3,7 @@
 1.3 Example 6
 
 # In Progress
-2.2 Find the range of the following functions using the graph.<br/>
+## 2.2 Find the range of the following functions using the graph.<br/>
 
     (a) y=mx+b
     (b) x^even + C, powers:=[2,4,6,8,10], C:= random_exclude(-10,10,0)
@@ -21,17 +21,17 @@ range is related to the output value. Don’t ask about domain in this question,
 future when deciding on variable names in your code. 
 <br/>
 <br/>
-2.5 Decomposing functions
+## 2.5 Decomposing functions
 Express the function h(x) in the form gof by decomposing it into a composition of non-identity functions. h(x) = (x^p+A)^q 
 A:=random_exclude(-10,10,0), p,q:= random(2,10) q!=p.
 <br/>
 <br/>
-2.5 Decomposing functions
+## 2.5 Decomposing functions
 Express the function H(x) in the form fogoh by decomposing it into a composition of non-identity functions. 
 H(x) = (A+|x|)^(1/r) a:=random_exclude(-10,10,0), r:= random(2,10), show radical symbol.
 <br/>
 <br/>
-2.5 Decomposing functions 
+## 2.5 Decomposing functions 
 Express the function h(x) in the form coboa by decomposing it into a composition of non-identity functions. 
 h(x) = sin(A-x^p) A:=random_exclude(-10,10,0), p:= random(2,10)
 
