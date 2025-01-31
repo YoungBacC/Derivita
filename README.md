@@ -1,6 +1,6 @@
 # Completed
-2.2 Example 5<br/>
-1.3 Example 6
+2.2.2 Like Example 5<br/>
+1.3.6 Like Example 6
 
 # In Progress
 ## 2.2 Find the range of the following functions using the graph.<br/>
