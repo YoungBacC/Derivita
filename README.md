@@ -1,7 +1,7 @@
 # Completed
 2.2.2 Like Example 5<br/>
 1.3.6 Like Example 6<br/>
-## 2.2.4 (NEEDS SOLUTION and beware of lag because of the amount of desmos graphs!!!)
+2.2.4 (NEEDS SOLUTION and beware of lag because of the amount of desmos graphs!!!)
 
 # In Progress
 ## 2.5 Decomposing functions
