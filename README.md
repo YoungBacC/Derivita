@@ -2,13 +2,9 @@
 2.2.2 Like Example 5<br/>
 1.3.6 Like Example 6<br/>
 2.2.4 (NEEDS SOLUTION and beware of lag because of the amount of desmos graphs!!!)
+2.5.2 (NEEDS SOLUTION)
 
 # In Progress
-## 2.5 Decomposing functions
-Express the function h(x) in the form gof by decomposing it into a composition of non-identity functions. h(x) = (x^p+A)^q 
-A:=random_exclude(-10,10,0), p,q:= random(2,10) q!=p.
-<br/>
-<br/>
 ## 2.5 Decomposing functions
 Express the function H(x) in the form fogoh by decomposing it into a composition of non-identity functions. 
 H(x) = (A+|x|)^(1/r) a:=random_exclude(-10,10,0), r:= random(2,10), show radical symbol.
