@@ -4,6 +4,8 @@
 2.2.4 (NEEDS SOLUTION because I dont know how the solution should be formatted. Beware of lag because of the amount of 
 desmos graphs!!!)<br/>
 2.5.2
+3.3.9
+3.3.10
 
 # In Progress
 ## 2.5 Decomposing functions
@@ -23,16 +25,6 @@ Have the constant term be a non-perfect square. Factor over R. Careful with chec
 ## 3.3 Quadratic Formula
 Multiple choice, identify the quadratic formula, select all that apply. See Q5.4.2 for code structure. See slide 21 from 3.3 
 for formula structure. Include this structure, and the standard structure where everything is over one fraction bar.
-<br/>
-<br/>
-## 3.3 Solve Using Quadratic Formula
-Make discriminant NOT a perfect square. In feedback show graph of parabola and x-intercepts labeled as seen on slide 23 
-(sans arrows).
-<br/>
-<br/>
-## 3.3 Solve Using Quadratic Formula
-Make discriminant BE a perfect square. Mention in solutions that this means it could have been factored over Z instead. 
-In feedback show graph of parabola and x-intercepts labeled as seen on slide 23 (sans arrows).
 <br/>
 <br/>
 ## 3.3 Solve Using Quadratic Formula
