@@ -6,14 +6,10 @@ desmos graphs!!!)<br/>
 2.5.2<br/>
 3.3.9<br/>
 3.3.10<br/>
-2.5.3
+2.5.3<br/>
+2.5.4
 
 # In Progress
-## 2.5 Decomposing functions 
-Express the function h(x) in the form coboa by decomposing it into a composition of non-identity functions. 
-h(x) = sin(A-x^p) A:=random_exclude(-10,10,0), p:= random(2,10)
-<br/>
-<br/>
 ## Duplicate 3.3.3
 Have the constant term be a non-perfect square. Factor over R. Careful with checking; there are equivalent radicals.
 <br/>
