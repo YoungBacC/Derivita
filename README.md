@@ -7,13 +7,10 @@ desmos graphs!!!)<br/>
 3.3.9<br/>
 3.3.10<br/>
 2.5.3<br/>
-2.5.4
+2.5.4<br/>
+3.3.4
 
 # In Progress
-## Duplicate 3.3.3
-Have the constant term be a non-perfect square. Factor over R. Careful with checking; there are equivalent radicals.
-<br/>
-<br/>
 ## 3.3 Quadratic Formula
 Multiple choice, identify the quadratic formula, select all that apply. See Q5.4.2 for code structure. See slide 21 from 3.3 
 for formula structure. Include this structure, and the standard structure where everything is over one fraction bar.
