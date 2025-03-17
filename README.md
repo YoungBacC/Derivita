@@ -17,10 +17,10 @@
 
 # In Progress
 ## 3.4 Example 3
-Consider the function f(x)=ax^2+bx+c
-    (a) Find the vertex of the parabola.
-    (b) Find the axis of symmetry.
-    (c) (multiple choice) Which of the following could be the graph o f y=f(x)?
+Consider the function f(x)=ax^2+bx+c<br/>
+    (a) Find the vertex of the parabola.<br/>
+    (b) Find the axis of symmetry.<br/>
+    (c) (multiple choice) Which of the following could be the graph o f y=f(x)?<br/>
     Notes: start with vertex form a(x-h)^2+k for construction where the constants are random_exclude(-10,10,0). 
     Expand into standard form for presentation to student. For part (c), offer up 4 possible graphs to the student 
     for the MC question. Label the vertex and axis of symmetry. See 3.4.2 for some code examples.
