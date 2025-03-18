@@ -16,12 +16,19 @@
 # Unchecked 
 
 # In Progress
-## 3.4 Example 3
-Consider the function f(x)=ax^2+bx+c<br/>
-    (a) Find the vertex of the parabola.<br/>
-    (b) Find the axis of symmetry.<br/>
-    (c) (multiple choice) Which of the following could be the graph o f y=f(x)?<br/>
-    Notes: start with vertex form a(x-h)^2+k for construction where the constants are random_exclude(-10,10,0). 
-    Expand into standard form for presentation to student. For part (c), offer up 4 possible graphs to the student 
-    for the MC question. Label the vertex and axis of symmetry. See 3.4.2 for some code examples.
+## 3.5 Example 7
+Notes: Make the polynomial a quartic with one zero a repeated root like in the example. Leading coefficient 
+could be positive or negative, probably random_exclude(-8,8,0). Randomize zeros and extra given point. Make 
+the zeros integers. Present a Desmos graph with labeled points. For coding, start with factored form for ease.
 
+## 3.5
+3.5 Duplicate above question but make it a quintic with two repeated roots that are integers, and one root 
+that is a non-integer rational number.
+
+## 3.7 The Remainder Theorem
+Slide 17 fill in the blank for [f(c)]. Let f be a polynomial function. When f(x) is divided by x−c, the remainder 
+is [f(c)].
+
+## 3.7 Example 6
+Duplicate this example. Randomize the polynomial. Ask students what the remainder is, and then multiple choice 
+for “IS the poly divisible by the factor?” Give them two factors to check, one of which is a factor (remainder is 0).
