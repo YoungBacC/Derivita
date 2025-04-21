@@ -12,23 +12,49 @@
 3.3.14<br/>
 3.5.10<br/>
 3.5.11<br/>
+3.5.15<br/>
+3.5.16<br/>
+3.7.5<br/>
 
 # Unchecked 
+3.5.17<br/>
+6.4.5<br/>
+6.4.6<br/>
+3.7.4<br/>
 
 # In Progress
-## 3.5 Example 7
-Notes: Make the polynomial a quartic with one zero a repeated root like in the example. Leading coefficient 
-could be positive or negative, probably random_exclude(-8,8,0). Randomize zeros and extra given point. Make 
-the zeros integers. Present a Desmos graph with labeled points. For coding, start with factored form for ease.
+## Q3.5.7 Duplicate this as Q3.5.8, but…
+	-Have it pass through a point different than the y-int
+	-Make it degree 6 and have an irrational sqrt root and its conjugate
+	-Ask students to use the EXPAND command on WolframAlpha to expand it into standard form, and give standard form 
+    as part (b). Hyperlink the Mathematica documentation at the command.
 
-## 3.5
-3.5 Duplicate above question but make it a quintic with two repeated roots that are integers, and one root 
-that is a non-integer rational number.
+## Q3.5.7 Duplicate this as Q3.5.9, but…
+	-Have it pass through a point different than the y-int
+	-Make it degree 6 and have an irrational sqrt root [like 1+sqrt(3)] and its conjugate
+	-Ask students to use the EXPAND command on WolframAlpha to expand it into standard form, and give standard form 
+    as part (b). Hyperlink the Mathematica documentation at the command.
 
-## 3.7 The Remainder Theorem
-Slide 17 fill in the blank for [f(c)]. Let f be a polynomial function. When f(x) is divided by x−c, the remainder 
-is [f(c)].
+## Q3.5.7 Duplicate this as Q3.5.10, but…
+	-Have it pass through a point different than the y-int
+	-Make it degree 5 and have an irrational sqrt  root and NOT its conjugate
+	-Ask students to use the EXPAND command on WolframAlpha to expand it into standard form, and give standard form 
+    as part (b). Hyperlink the Mathematica documentation at the command.
 
-## 3.7 Example 6
-Duplicate this example. Randomize the polynomial. Ask students what the remainder is, and then multiple choice 
-for “IS the poly divisible by the factor?” Give them two factors to check, one of which is a factor (remainder is 0).
+## 3.7 Duplicate Q3.5.8 after the above and put this in section 3.7, but…
+	-Have it pass through a point different than the y-int
+	-Make it degree 6 and have a complex root and its conjugate
+	-Ask students to use the EXPAND command on WolframAlpha to expand it into standard form, and give standard form 
+    as part (b). Hyperlink the Mathematica documentation at the command.
+
+## 3.7 Duplicate Q3.5.8 after the above and put this in section 3.7, but…
+	-Have it pass through a point different than the y-int
+	-Make it degree 6 and have a complex root [like 1+3i] and its conjugate
+	-Ask students to use the EXPAND command on WolframAlpha to expand it into standard form, and give standard form 
+    as part (b). Hyperlink the Mathematica documentation at the command.
+
+## 3.7 Duplicate from 3.7 after the above and put this in section 3.7, but…
+	-Have it pass through a point different than the y-int
+	-Make it degree 4 and have a complex root and its NOT conjugate
+	-Ask students to use the EXPAND command on WolframAlpha to expand it into standard form, and give standard form 
+    as part (b). Hyperlink the Mathematica documentation at the command.
