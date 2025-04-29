@@ -23,14 +23,9 @@
 3.7.4<br/>
 3.5.8<br/>
 3.5.9<br/>
+3.5.10<br/>
 
 # In Progress
-## Q3.5.7 Duplicate this as Q3.5.10, but…
-	-Have it pass through a point different than the y-int
-	-Make it degree 5 and have an irrational sqrt  root and NOT its conjugate
-	-Ask students to use the EXPAND command on WolframAlpha to expand it into standard form, 
-    and give standard form as part (b). Hyperlink the Mathematica documentation at the command.
-
 ## 3.7 Duplicate Q3.5.8 after the above and put this in section 3.7, but…
 	-Have it pass through a point different than the y-int
 	-Make it degree 6 and have a complex root and its conjugate
