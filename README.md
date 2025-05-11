@@ -15,26 +15,32 @@
 3.5.15<br/>
 3.5.16<br/>
 3.7.5<br/>
-
-# Unchecked 
 3.5.17<br/>
 6.4.5<br/>
 6.4.6<br/>
 3.7.4<br/>
+
+
+# Unchecked 
 3.5.8<br/>
 3.5.9<br/>
 3.5.10<br/>
 3.5.16<br/>
+3.7.16<br/>
+3.7.17<br/>
 
 # In Progress
-## 3.7 Duplicate Q3.5.8 after the above and put this in section 3.7, but…
-	-Have it pass through a point different than the y-int
-	-Make it degree 6 and have a complex root and its conjugate
-	-Ask students to use the EXPAND command on WolframAlpha to expand it into standard form, 
-    and give standard form as part (b). Hyperlink the Mathematica documentation at the command.
+## 4.3 Example 3 slide 20
+    Find the domain of the following log functions. Enter answer in set-builder and interval notation. Input 
+    variables random_item(x,t). Three separate questions. See Q2.1.25 for set builder notation example.
+    (a) Randomize whole number base, give a random horizontal shift.
+    (b) Randomize whole number base, make argument |x|. Don’t make base fractional.
+    (c) Randomize base, make it a fraction. Function is (a+bx)/(c+dx) randomized nonzero constants. For feedback 
+    create a sign diagram. See Q3.2.11 for sign diagram feedback example. 
 
-## 3.7 Duplicate from 3.7 after the above and put this in section 3.7, but…
-	-Have it pass through a point different than the y-int
-	-Make it degree 4 and have a complex root and its NOT conjugate
-	-Ask students to use the EXPAND command on WolframAlpha to expand it into standard form, 
-    and give standard form as part (b). Hyperlink the Mathematica documentation at the command.
+## 4.3 Natural and Common log refs. Dropdown
+    The natural logarithm function is the logarithm function with base __. It is denoted by __.
+    The common logarithm function is the logarithm function with base __. It is denoted by __ in lower 
+    division undergraduate courses.
+
+    Notes: in the feedback, include the content of slide 28.
